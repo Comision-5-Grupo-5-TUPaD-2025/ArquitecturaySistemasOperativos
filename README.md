@@ -1,4 +1,4 @@
-# ArquitecturaySistemasOperativos
+# Arquitectura y Sistemas Operativos
 
 Carpeta dedicada al trabajo de la materia Arquitectura y Sistemas Operativos de la TUPaD - 2025 - Comisión N° 5.
 
